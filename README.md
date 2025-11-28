@@ -8,7 +8,7 @@ This project demonstrates strong skills in web scraping, data cleaning, visualiz
 
 # Source
 Data scraped from:
-🔗 Wikipedia – List of India's Largest Companies
+https://en.wikipedia.org/wiki/List_of_largest_companies_in_India – List of India's Largest Companies
 
 # Data Extracted
 The following columns were collected:
