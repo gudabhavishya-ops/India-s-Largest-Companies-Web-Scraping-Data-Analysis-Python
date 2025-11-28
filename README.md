@@ -147,5 +147,13 @@ Ability to derive insights from messy data
 A solid end-to-end data analysis workflow
 
 
+##  Author
+**G.L.Bhavishya**
+
+##  Contact
+- Email: gudabhavishya@gmail.com 
+- LinkedIn: www.linkedin.com/in/bhavishya-guda-803b46264  
+
+
 
 
