@@ -81,28 +81,22 @@ Ensured all numeric financial fields are type-correct
 
 # Exploratory Data Analysis (Visuals + Insights)
 
-1️⃣ Revenue Distribution
 Most companies have revenues below 20 billion USD, with only a few extremely large companies crossing the 50–100B USD mark.
 The distribution is right-skewed, showing India has only a small number of super-giant firms.
 
-2️⃣ Profit Distribution
 Most companies earn 0–2 billion USD profit, while only a few achieve very high profits (5B–8B USD).
 This indicates thin margins across many industries, with profitability concentrated in a few giants.
 
-3️⃣ Industry Wise Count
 Banking and Financial sectors dominate—having the largest number of top companies.
 Many industries have only 1–2 companies, showing uneven representation.
 
-4️⃣ Revenue vs Profit (Scatter Plot)
 Higher revenue does not always mean higher profit.
 Many high-revenue companies still report low profits, proving that efficiency matters more than size.
 Only a few companies belong to the high-revenue, high-profit category.
 
-5️⃣ Total Revenue by Industry
 Banking and Oil & Gas contribute the highest total revenue—far ahead of all other sectors.
 Industries like Retail, Telecom, Consumer Goods, and Pharma contribute relatively smaller amounts.
 
-6️⃣ Assets vs Market Value (Scatter Plot)
 High assets do not necessarily translate into high valuation.
 A large cluster of companies holds huge assets but low market value—common in regulated or capital-heavy industries.
 Only a few firms effectively convert assets into shareholder value.
@@ -130,10 +124,6 @@ Mid-scale companies form the majority, but mega-corporations drive the economy
 
 Overall, the analysis reveals a concentrated, finance-driven economy, with clear structural imbalances and growth opportunities.
 
-# Project Structure
-India-Largest-Companies/
-│── web_scraping_india_companies.ipynb
-│── README.md
 
 
 # What You Demonstrate With This Project
