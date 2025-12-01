@@ -152,7 +152,7 @@ A solid end-to-end data analysis workflow
 
 ##  Contact
 - Email: gudabhavishya@gmail.com 
-- LinkedIn: www.linkedin.com/in/bhavishya-guda-803b46264  
+- LinkedIn: www.linkedin.com/in/bhavishya-guda
 
 
 
